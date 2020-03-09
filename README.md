@@ -1,0 +1,1 @@
+Minimum settings with a single application 
